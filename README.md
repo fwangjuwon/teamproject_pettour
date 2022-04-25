@@ -53,7 +53,7 @@
 </aside>
 
 # 🐱ERD
-
+![ERD_v2](https://user-images.githubusercontent.com/97711613/165016780-8312d698-6e7e-46dd-917e-2cce0a6d565f.png)
 
 # 🐱기능 소개
 
