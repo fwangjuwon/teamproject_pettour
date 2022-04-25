@@ -53,6 +53,7 @@ public class BoardsController {
             comments.add(dto);
         }
 
+        model.addAttribute("boards", boardsEntity);
         model.addAttribute("comments", comments);
         model.addAttribute("boardsId", id);
         return "pages/post/jarangDetail";
